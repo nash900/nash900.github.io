@@ -1,6 +1,8 @@
 # Welcome to GitHub Pages
 This is a template wiki with docsify.
 
+Run a static server to preview your site: `python -m SimpleHTTPServer 3000`
+
 # Learn docsify
 
 * https://docsify.js.org
